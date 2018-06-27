@@ -1,0 +1,59 @@
+body {
+	padding-left: 11em;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	
+}
+
+ul.navbar {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	top: 2em;
+	left: 1em;
+	width: 9em;
+	
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif
+}
+table{
+	padding-left: center;
+	border-bottom: 1px solid #fff;
+    border-radius: 10px;
+}
+
+ul.navbar li {
+	background: #cca1ce80;
+	margin: 0.5em 0;
+	padding: 0.3em;
+	border-right: 1em solid #8E3B92;
+	
+}
+
+ul.navbar a {
+	text-decoration: none
+}
+
+a:link {
+	color: B441C8;
+}
+
+a:visited {
+	color: B441C8;
+}
+
+address {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: thin dotted
+}
+input:invalid {
+  border: 1px solid red;
+}
+
+input:valid {
+  border: 1px solid green;
+}
